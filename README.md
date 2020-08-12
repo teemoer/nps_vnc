@@ -1,3 +1,9 @@
+# 基于 nps项目修改 增加 自带vnc功能模块
+
+实现效果 启动 npc.exe 提示用户输入 远控连接密码  然后 自带启动  vnc.dll 和 npc 反向代理
+
+才发现  几个核心go文件代码还没上传  晚上回家去 用家里电脑 上传一下 
+
 
 # NPS
 ![](https://img.shields.io/github/stars/ehang-io/nps.svg)   ![](https://img.shields.io/github/forks/ehang-io/nps.svg)
